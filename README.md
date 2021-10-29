@@ -1,5 +1,5 @@
 # Algorithms-and-DS
-# please click on the name of the program to go to the google colab file
+## please click on the name of the program to go to the google colab file
 
 Programs related to algorithms and ds problems
 Contains all the problems that i have came across in ds and algorithms
